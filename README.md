@@ -1,10 +1,7 @@
-# FastAPI-Series
+# FastAPI-Series 
+## Blog API
 
-# Blog API
-
-Read the docs [here](https://fastapi-develie.herokuapp.com/docs)
-
-# Installation
+# Set up & Installation
 
 1. Navigate into your desired folder, then clone this repo as shown, remember the dot (.) so as to avoid duplicating this repo's name again.
 
