@@ -1,7 +1,7 @@
 # FastAPI-Series 
 ## Blog API
 
-# Set up & Installation
+### Set up & Installation
 
 1. Navigate into your desired folder, then clone this repo as shown, remember the dot (.) so as to avoid duplicating this repo's name again.
 
