@@ -15,6 +15,19 @@
 
 `pip install -r requirements.txt`
 
-4. Start the server
+4. Create a `.env` file in the root of the directory then add the following contents, adding values for each depending on your configs.
 
-`uvicorn app.main:app --reload`
+```
+DATABASE_HOSTNAME=
+DATABASE_PORT=
+DATABASE_PASSWORD=
+DATABASE_NAME=
+DATABASE_USERNAME=
+SECRET_KEY=
+ALGORITHM=HS256
+ACCESS_TOKEN_EXPIRE_MINUTES=
+```
+5. Run a database migration
+
+` alembic upgrade head`
+
