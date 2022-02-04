@@ -1,5 +1,4 @@
-# FastAPI-Series 
-## Blog API
+# FastAPI-Series MLSA Program
 
 ### Set up & Installation
 
