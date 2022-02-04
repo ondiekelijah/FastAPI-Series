@@ -5,7 +5,6 @@ from sqlalchemy.sql.sqltypes import TIMESTAMP
 from .database import Base
 
 # create a class that represents a table in a SQL
-
 class Post(Base):
     __tablename__ = "posts"
 

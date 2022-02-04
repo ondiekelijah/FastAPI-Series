@@ -33,7 +33,10 @@ six==1.16.0
 sniffio==1.2.0
 SQLAlchemy==1.4.31
 starlette==0.17.1
+<<<<<<< HEAD
 toml==0.10.2
+=======
+>>>>>>> 5a1bf2d61173a9eb520d9a5d92b2c144cac6aaf1
 typing-extensions==4.0.1
 ujson==4.3.0
 urllib3==1.26.8
