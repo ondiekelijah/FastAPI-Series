@@ -9,6 +9,7 @@
 2. Change to that specific directory
 
 `cd directory path`
+
 3. Create a virtual environment & activate it
 
 **Windows**
