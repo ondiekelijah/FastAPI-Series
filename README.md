@@ -1,4 +1,4 @@
-# FastAPI-Series MLSA Program
+# FastAPI Series
 
 ### Video recordings
 
