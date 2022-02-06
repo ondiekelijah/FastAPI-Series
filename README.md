@@ -20,16 +20,16 @@
 
    **Windows**
           
-```bash
+   ```bash
    #create a venv
    py -3 -m venv venv
    # activate venv
    venv\Scripts\activate
    ```
           
-  **macOS/Linux**
+   **macOS/Linux**
           
-  ```bash
+   ```bash
    #create a venv
    python3 -m venv venv
    # activate venv
