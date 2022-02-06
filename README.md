@@ -1,5 +1,11 @@
 # FastAPI-Series MLSA Program
 
+### Video recordings
+
+1. [Introduction to building APIs](https://stdntpartners-my.sharepoint.com/:v:/g/personal/felix_orinda_studentambassadors_com/ET7sE6SxRZ5Pha-S2Cn8THUBNte7kt87FR0IsoRCbSUvFw?e=ix0YgM)
+2. [Effective testing with Python and Pytest](https://stdntpartners-my.sharepoint.com/personal/felix_orinda_studentambassadors_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffelix%5Forinda%5Fstudentambassadors%5Fcom%2FDocuments%2FRecordings%2FREST%20API%20Testing%20Using%20Python%2D20220204%5F200410%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Ffelix%5Forinda%5Fstudentambassadors%5Fcom%2FDocuments%2FRecordings)
+
+
 ### Set up & Installation
 
 1. Navigate into your desired folder, then clone this repo as shown, remember the dot (.) so as to avoid duplicating this repo's name again.
