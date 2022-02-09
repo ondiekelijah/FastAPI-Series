@@ -16,7 +16,7 @@ def test_get_one_post(client, init_posts):
     assert res.status_code == 200
     assert post["id"] == init_posts[0].id
     assert post["title"] == init_posts[0].title
-    assert post["content"] == init_posts[0].title
+    assert post["content"] == init_posts[0].content
 
 
 def test_create_post(client, init_posts):
