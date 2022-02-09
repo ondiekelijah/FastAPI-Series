@@ -1,13 +1,14 @@
 name: Build and test code
 
 
-on: [push]
+on: [push, pull_request]
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
         uses: actions/checkout@v2
+      - name: Printing out sth
       - run: echo "Let's automate"
 
 
