@@ -1,0 +1,47 @@
+name: Build and test code
+
+on: ["push","pull_request"]
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+     - name: pulling git repo
+     - uses: actions/checkout@v2
+     - name: Learning CI/CD
+     - run: echo "Let's automate"
+
+  # test:
+
+  # deploy:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  # push:
+  #   branches: ["main", "dev", "another_branch"]
+
+  # pull_request:
+  #   braches:
+  #     - "main"
+  #     - "dev"

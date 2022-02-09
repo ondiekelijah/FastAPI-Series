@@ -50,9 +50,7 @@ def create_post(post: schemas.Post, db: Session = Depends(database.get_db)):
 
 
 @app.put("/{id}")
-def update_post(
-    id: int, updated_post: schemas.Post, db: Session = Depends(database.get_db)
-):
+def update_post(id: int, updated_post: schemas.Post, db: Session = Depends(database.get_db)):
 
     post_query = db.query(models.Post).filter(models.Post.id == id)
 
