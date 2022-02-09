@@ -1,5 +1,5 @@
 # FastAPI Series
-
+[![Build and test code](https://github.com/Dev-Elie/FastAPI-Series/actions/workflows/github-actions.yml/badge.svg)](https://github.com/Dev-Elie/FastAPI-Series/actions/workflows/github-actions.yml)
 ### Video recordings
 
 1. [Introduction to building APIs](https://stdntpartners-my.sharepoint.com/:v:/g/personal/felix_orinda_studentambassadors_com/ET7sE6SxRZ5Pha-S2Cn8THUBNte7kt87FR0IsoRCbSUvFw?e=ix0YgM)
