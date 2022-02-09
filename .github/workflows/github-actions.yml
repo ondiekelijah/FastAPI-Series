@@ -1,16 +1,15 @@
 name: Build and test code
 
-on: ["push","pull_request"]
 
-
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-     - name: pulling git repo
-     - uses: actions/checkout@v2
-     - name: Learning CI/CD
-     - run: echo "Let's automate"
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - run: echo "Let's automate"
+
 
   # test:
 
