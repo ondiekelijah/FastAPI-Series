@@ -5,7 +5,7 @@
 1. [Introduction to building APIs](https://stdntpartners-my.sharepoint.com/:v:/g/personal/felix_orinda_studentambassadors_com/ET7sE6SxRZ5Pha-S2Cn8THUBNte7kt87FR0IsoRCbSUvFw?e=ix0YgM)
 2. [Effective testing with Python and Pytest](https://stdntpartners-my.sharepoint.com/personal/felix_orinda_studentambassadors_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffelix%5Forinda%5Fstudentambassadors%5Fcom%2FDocuments%2FRecordings%2FREST%20API%20Testing%20Using%20Python%2D20220204%5F200410%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Ffelix%5Forinda%5Fstudentambassadors%5Fcom%2FDocuments%2FRecordings)
 - [Canva Slides](https://www.canva.com/design/DAE3G9Cc6C0/view?utm_content=DAE3G9Cc6C0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-4. [Introduction to CI/CD with GitHub Actions](https://stdntpartners-my.sharepoint.com/:v:/g/personal/ondiek_ochieng_studentambassadors_com/EcPFpKoFIjdBk2z6LPl0cl4BunBtYRxTd5DASGMSvgMdow?e=iOiebh)
+4. [Introduction to CI/CD with GitHub Actions](https://stdntpartners-my.sharepoint.com/:v:/g/personal/ondiek_ochieng_studentambassadors_com/EcPFpKoFIjdBk2z6LPl0cl4BunBtYRxTd5DASGMSvgMdow?e=g0gycZ)
 - [Canva Slides](https://www.canva.com/design/DAE33Yc4y9s/Ghyh11R-Fm6obZUhqwr4Vw/view?utm_content=DAE33Yc4y9s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
